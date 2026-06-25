@@ -81,7 +81,19 @@ The simulation provides:
 - AI-based power management
 
 ---
+## Simulation Results
 
+### Simulink Model
+
+![Simulink Model](SimulinkModel.png)
+
+### Power Flow Analysis
+
+![Power Flow Analysis](PowerFlowAnalysis.png)
+
+### Electrical Loss Analysis
+
+![Electrical Loss Analysis](ElectricalLosses.png)
 ## Author
 
 Hameed
