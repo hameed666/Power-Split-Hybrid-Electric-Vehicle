@@ -3,7 +3,15 @@
 ## Project Overview
 
 This project presents the modeling and simulation of a Power Split Hybrid Electric Vehicle (HEV) using MATLAB/Simulink and Simscape Electrical.
+## Skills Demonstrated
 
+- MATLAB Programming
+- Simulink Modeling
+- Power Electronics
+- Hybrid Electric Vehicles
+- Electrical Loss Analysis
+- Regenerative Braking
+- Energy Management
 The model demonstrates the interaction between:
 
 - Internal Combustion Engine (ICE)
