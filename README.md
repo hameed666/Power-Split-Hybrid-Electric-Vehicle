@@ -1,8 +1,9 @@
 # Power Split Hybrid Electric Vehicle (HEV)
 
-## Project Overview
+## About This Project
 
-This project presents the modeling and simulation of a Power Split Hybrid Electric Vehicle (HEV) using MATLAB/Simulink and Simscape Electrical.
+I developed this project to understand the working of Power Split Hybrid Electric Vehicles using MATLAB/Simulink. The model helped me study power flow, regenerative braking and electrical losses in hybrid vehicle powertrains.
+
 ## Skills Demonstrated
 
 - MATLAB Programming
@@ -82,6 +83,8 @@ The simulation provides:
 
 ## Future Improvements
 
+In the future, I plan to add:
+
 - State of Charge (SOC) estimation
 - Drive cycle implementation
 - Fuel economy analysis
@@ -102,6 +105,7 @@ The simulation provides:
 ### Electrical Loss Analysis
 
 ![Electrical Loss Analysis](ElectricalLosses.png)
+
 ## Author
 
 Hameed
